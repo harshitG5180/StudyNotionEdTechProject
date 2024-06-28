@@ -15,4 +15,8 @@ export const NavbarLinks = [
     title: "Contact Us",
     path: "/contact",
   },
+  {
+    title: "Try Code-It-Up",
+    path: "https://code-it-up.netlify.app/"
+  }
 ];
